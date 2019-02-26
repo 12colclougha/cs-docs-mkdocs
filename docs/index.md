@@ -1,5 +1,5 @@
 # Home
-Hello! This website will help you learn how to complete the AQA A Level Computer Science (7517) exam. See the source at https://github.com/comp500/cs-docs-mkdocs, and contribute to the documentation by pressing the edit button on the top right of every page!
+Hello, This website will help you learn how to complete the AQA A Level Computer Science (7517) exam. See the source at https://github.com/comp500/cs-docs-mkdocs, and contribute to the documentation by pressing the edit button on the top right of every page!
 
 All the pages on this website are accessible from the navigation bar on the left. You can also search for pages and content using the search bar at the top.
 
